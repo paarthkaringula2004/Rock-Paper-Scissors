@@ -38,6 +38,7 @@ This project can be deployed as a static site on platforms such as Render, GitHu
 ## ▸ Author
 
 Karingula Paarth
+
 ✉ Email: [paarthkaringula@gmail.com](mailto:paarthkaringula@gmail.com)
 
 ## ▸ License
